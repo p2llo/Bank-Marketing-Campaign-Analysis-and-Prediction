@@ -1,8 +1,8 @@
 # Bank-Marketing-Campaign-Analysis-and-Prediction
 
-#Project Overview : 
+# Project Overview : 
 This project analyzes the UCI Bank Marketing dataset to understand customer behavior and predict whether a client will subscribe to a term deposit. The analysis includes data cleaning, exploratory data analysis (EDA), preprocessing, and training multiple classification models to evaluate their performance in predicting subscription outcomes.
-#Dataset
+# Dataset
 The dataset (bankmarketing.csv) is sourced from the UCI Machine Learning Repository and contains information about a bank's marketing campaigns. Key features include:
 
 Demographic: Age, job, marital status, education
@@ -10,7 +10,7 @@ Financial: Balance, housing loan, personal loan
 Campaign: Contact type, day, month, duration, campaign contacts
 Target Variable: y (binary: 'yes'/'no' for term deposit subscription)
 
-#Project Structure
+## Project Structure
 
 bankmarketing.csv: Input dataset
 data_cleaning.py: Handles missing values and basic data cleaning
